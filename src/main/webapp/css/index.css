@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+
+body {
+	background-image: url("images/animals1.png");
+	background-repeat: repeat;
+}
+h2 , a{
+	color: white;
+	margin-bottom: 10%;
+}
+
+div{
+	margin: 5.5%;
+	margin-left: 37%;
+	margin-right:37%;
+	background-color: black;
+	border-style: solid;
+	border-radius: 5%;
+	opacity: 93%;
+}
+
